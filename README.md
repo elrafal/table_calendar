@@ -1,6 +1,6 @@
 
-# Test od table_calendar.
+# table_calendar - test version
 
-original is:
+original is located here:
 https://github.com/aleksanderwozniak/table_calendar
 
